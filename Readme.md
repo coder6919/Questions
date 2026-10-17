@@ -34,24 +34,6 @@ I'm using this repository to strengthen my problem-solving skills, improve my un
 
 *Topics will be added as I progress.*
 
-## 📂 Repository Structure
-
-Solutions are organized by programming language and/or coding platform to keep the repository easy to navigate.
-
-```text
-coding-practice/
-├── LeetCode/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   └── ...
-├── GeeksforGeeks/
-│   └── ...
-└── README.md
-```
-
-*The structure above is illustrative; the actual folders may differ.*
-
 ## 🛠️ Languages
 
 - Java
