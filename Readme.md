@@ -80,7 +80,7 @@ For each problem, I aim to:
 ## 🔗 Connect With Me
 
 - **GitHub:** [@coder6919](https://github.com/coder6919)
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/syed-saifuddin-a56564217/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/syed-saifuddin-a56564217/)
 
 ---
 
